@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://podcast.nantyara.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://podcast.nantyara.com/</link>
+    <title>なんちゃラジオ</title>
+    <description>なんちゃラジオのフィード（テスト用フィクスチャ）</description>
+    <item>
+      <title>第443回「髪切ったよん」</title>
+      <link>https://podcast.nantyara.com/episode/443</link>
+      <pubDate>Fri, 03 Jul 2026 22:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>第442回「夢で食べたあのパンが食べたい」</title>
+      <link>https://podcast.nantyara.com/episode/442</link>
+      <pubDate>Fri, 26 Jun 2026 22:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>第441回「塊魂は顔が浮腫む」</title>
+      <link>https://podcast.nantyara.com/episode/441</link>
+      <pubDate>Fri, 19 Jun 2026 22:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>第440回「昔の話」</title>
+      <link>https://podcast.nantyara.com/episode/440</link>
+      <pubDate>Fri, 12 Jun 2026 22:55:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
