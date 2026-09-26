@@ -8,7 +8,7 @@
 #### なんちゃラジオ 最新エピソード
 
 <!-- radio:start -->
+- [第455回「マイクロブタ触り逃げ」](https://podcast.nantyara.com/episode/455) (2026-09-25)
+- [第454回「刑法223条、204条・205条」](https://podcast.nantyara.com/episode/454) (2026-09-18)
 - [第453回「買ってよかったもの。美味しくなかったジュース。」](https://podcast.nantyara.com/episode/453) (2026-09-11)
-- [第452回「人生は経験や！」](https://podcast.nantyara.com/episode/452) (2026-09-04)
-- [第451回「早起ききらい」](https://podcast.nantyara.com/episode/451) (2026-08-28)
 <!-- radio:end -->
