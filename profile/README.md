@@ -8,7 +8,7 @@
 #### なんちゃラジオ 最新エピソード
 
 <!-- radio:start -->
+- [第459回「代替現実ゲームってなんだ？」](https://podcast.nantyara.com/episode/459) (2026-10-23)
+- [第458回「大人になったと思うとき」](https://podcast.nantyara.com/episode/458) (2026-10-16)
 - [第457回「カビじゃ間が持たない」](https://podcast.nantyara.com/episode/457) (2026-10-09)
-- [第456回「ダンゴムシは交替性転向反応で行き先を決めている」](https://podcast.nantyara.com/episode/456) (2026-10-02)
-- [第455回「マイクロブタ触り逃げ」](https://podcast.nantyara.com/episode/455) (2026-09-25)
 <!-- radio:end -->
